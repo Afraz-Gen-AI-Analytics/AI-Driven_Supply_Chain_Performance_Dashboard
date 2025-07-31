@@ -44,23 +44,24 @@ This project reflects my ability to deliver results significantly faster than tr
 
 ## Tools and Technologies
 
-- Power BI
-- Python
-- SQL
-- Excel
-- Machine Learning (for forecasting and anomaly detection)
+- Power BI  
+- Python  
+- SQL  
+- Excel  
+- Machine Learning (Forecasting & Anomaly Detection)
 
 ## Value Proposition
 
 This dashboard goes beyond standard reporting by incorporating AI-driven capabilities, making it more accurate, responsive, and impactful. It demonstrates my ability to:
 
-- Solve complex supply chain challenges using data
-- Build intelligent automation and decision-support tools
+- Solve complex supply chain challenges using data  
+- Build intelligent automation and decision-support tools  
 - Deliver business value through scalable, real-world solutions
 
 ## Contact
 
-If you're interested in implementing a similar solution for your business or startup, feel free to reach out via GitHub or email.
+If you're interested in implementing a similar solution or would like to collaborate, feel free to connect with me:
 
-Author: Afraz  
-GitHub: [https://github.com/afraz](https://github.com/afraz)
+- **GitHub**: [https://github.com/Afraz-Gen-AI-Analytics](https://github.com/Afraz-Gen-AI-Analytics)  
+- **LinkedIn**: [www.linkedin.com/in/afraz-analytics](https://www.linkedin.com/in/afraz-analytics)  
+- **WhatsApp**: [+91 89512 97060](https://wa.me/918951297060)
