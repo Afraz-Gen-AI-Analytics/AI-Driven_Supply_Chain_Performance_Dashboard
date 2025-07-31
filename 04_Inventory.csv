@@ -1,0 +1,6 @@
+﻿ProductID,ProductCategory,CurrentStock,ReorderLevel,ReorderQuantity
+P001,Laptops,120,50,200
+P002,Desks,80,30,100
+P003,Monitors,60,20,70
+P004,Chairs,150,60,180
+P005,Accessories,500,200,600

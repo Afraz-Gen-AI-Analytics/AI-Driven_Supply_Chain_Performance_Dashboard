@@ -1,0 +1,9 @@
+﻿OrderID,OrderDate,CustomerSegment,ProductCategory,Region,Channel,UnitsSold,UnitPrice,TotalCost,TotalRevenue
+1001,10-01-2024,Corporate,Laptops,North,Online,12,700,6500,8400
+1002,12-01-2024,Consumer,Chairs,South,Wholesale,8,120,500,960
+1003,05-02-2024,Home Office,Desks,East,Online,5,250,800,1250
+1004,15-02-2024,Corporate,Monitors,West,Online,10,300,2200,3000
+1005,01-03-2024,Consumer,Accessories,North,Wholesale,20,50,400,1000
+1006,18-03-2024,Home Office,Laptops,South,Online,7,680,3000,4760
+1007,02-04-2024,Corporate,Desks,East,Wholesale,3,260,600,780
+1008,20-04-2024,Consumer,Monitors,West,Online,4,310,700,1240
