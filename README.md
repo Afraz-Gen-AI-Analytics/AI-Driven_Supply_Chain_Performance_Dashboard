@@ -48,7 +48,7 @@ This project reflects my ability to deliver results significantly faster than tr
 - Python  
 - SQL  
 - Excel  
-- Machine Learning (Forecasting & Anomaly Detection)
+- Machine Learning (Forecasting, Anomaly Detection)
 
 ## Value Proposition
 
@@ -56,12 +56,13 @@ This dashboard goes beyond standard reporting by incorporating AI-driven capabil
 
 - Solve complex supply chain challenges using data  
 - Build intelligent automation and decision-support tools  
-- Deliver business value through scalable, real-world solutions
+- Deliver business value through scalable, real-world solutions  
 
-## Contact
+## Access & Contact
 
-If you're interested in implementing a similar solution or would like to collaborate, feel free to connect with me:
-
-- **GitHub**: [https://github.com/Afraz-Gen-AI-Analytics](https://github.com/Afraz-Gen-AI-Analytics)  
+- **Google Drive Project Folder**: [Click Here](https://drive.google.com/drive/folders/1szbdGJg2_2VrmIE9xfYVot_eu2GqoM3c)  
+- **GitHub Profile**: [Afraz-Gen-AI-Analytics](https://github.com/Afraz-Gen-AI-Analytics)  
 - **LinkedIn**: [www.linkedin.com/in/afraz-analytics](https://www.linkedin.com/in/afraz-analytics)  
-- **WhatsApp**: [+91 89512 97060](https://wa.me/918951297060)
+- **WhatsApp**: [+91 8951297060](https://wa.me/918951297060)  
+
+Feel free to reach out for collaborations, job opportunities, or freelance AI/Data projects.
